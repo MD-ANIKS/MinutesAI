@@ -1,0 +1,34 @@
+# Core UI
+streamlit
+
+# YouTube Audio Download
+yt-dlp
+
+# Audio Processing
+openai-whisper
+ffmpeg-python
+pydub
+
+# Translation (Hindi to English)
+deep-translator
+
+# LangChain and Mistral AI
+langchain
+langchain-core
+langchain-community
+langchain-mistralai
+
+# RAG and Vector Database
+chromadb
+sentence-transformers
+langchain-huggingface
+
+# Hugging Face Embeddings
+transformers
+torch
+
+# PDF and TXT Export
+reportlab
+
+# Environment Variables
+python-dotenv

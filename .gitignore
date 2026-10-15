@@ -1,0 +1,65 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Build and distribution
+build/
+dist/
+wheels/
+*.egg-info/
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Whisper and HuggingFace downloaded models
+models/
+checkpoints/
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# ChromaDB and generated vector data
+chroma_db/
+chroma/
+vectorstore/
+*.sqlite3
+
+# Generated outputs
+outputs/
+exports/
+*.mp3
+*.wav
+*.mp4
+*.m4a
+*.webm
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# FFmpeg binaries
+ffmpeg.exe
+ffprobe.exe
