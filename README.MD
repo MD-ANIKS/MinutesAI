@@ -2,6 +2,10 @@
 
 An AI-powered meeting assistant built with Python and Streamlit that transforms YouTube videos and audio/video files into structured meeting insights. Transcribe conversations, generate summaries, extract action items and key decisions, and chat with your meeting using Retrieval-Augmented Generation (RAG).
 
+# AI Video Assistant / MinutesAI
+
+![App Preview](preview.png)
+
 ## Features
 
 - **YouTube & File Input** — Process YouTube URLs and uploaded audio/video files.
